@@ -1,0 +1,1 @@
+Not sure what was purpose of M in second task, cause according task it cannot be wrong, but N can be wrong instead of it, but N is not passed to function. (A and B arrays can be longer then actual amount of people in that case. Of course they can be also shorter but it wouldnt make any sense)
